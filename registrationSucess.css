@@ -1,0 +1,22 @@
+*{
+    margin: 0;
+    padding: 0;
+    font-family: sans-serif;
+   }
+
+header
+{
+    background-image:url(digital-animation-success-concept-white-background-56347107.jpg);
+    height: 150vh;
+    background-size: cover;
+    background-position: center;    
+    
+}
+.hero
+{
+    position:absolute;
+    width:1200px;
+    margin-left:0;
+    margin-top:25px:
+
+}

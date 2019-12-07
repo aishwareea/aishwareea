@@ -1,0 +1,23 @@
+*{
+    margin: 0;
+    padding: 0;
+    font-family: sans-serif;
+   }
+
+header
+{
+    background-image:url(services-text1.jpg);
+    height: 150vh;
+    background-size: cover;
+    background-position: center;    
+    
+}
+.bottle
+{
+
+    position:absolute;
+    width:1200px;
+    margin-left:0;
+    margin-top:25px:
+
+}
